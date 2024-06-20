@@ -1,2 +1,2 @@
-# Learn-Cpp-Projects_Codecademy
+# Learn-C++-Projects
 My projects from codecademy 
