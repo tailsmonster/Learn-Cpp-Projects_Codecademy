@@ -8,7 +8,7 @@ int main() {
   std::cout << "Enter number of Brazilian Reais:\n";
   std::cin >> reais;
   std::cout << "Enter number of Peruvian Soles:\n";
-  std::cin >> soles;
+  std::cin >> soles; 
 
   //1 Colombian Peso equals 0.00025 USD
   double pesosToUSD = pesos * 0.00025;
