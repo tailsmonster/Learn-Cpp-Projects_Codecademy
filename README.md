@@ -1,5 +1,5 @@
 # Learn-C++-Projects
-My projects from codecademy's Learn C++ Course
+My _____practice_____ projects from codecademy's Learn C++ Course
 
 ## ___THE CONTINUATION OF MY C++ JOURNEY!!!___
 I've always wanted to learn C++ because of my fascination with game development, as well as being a part of that elite subsection of programmers that are able to code anything! After I finish this C++ course, I wanna jump headfirst into OpenGL, or some other graphics api/library!
